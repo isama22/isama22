@@ -6,19 +6,11 @@ Based in Chicago, I graduated from The School of the Art Institute of Chicago in
 
 #### Check out my portfolio <a href="www.isasofiamartinez.com">here</a>!
 
-<br>
-
 #### View my resume: <a href="https://docs.google.com/document/d/1PWfhTnieTOW9Tx5XA-yXqoYJgQXtAUvHKK-En3IdP7I/edit?usp=sharing">Isa's Resume</a>
-
-<br>
 
 #### Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
 
-<br>
-
 #### Reach me via email: <a href="mailto:isasofma@gmail.com">isasofma@gmail.com</a>
-
-<br>
 
 #### Give me a call: (626) 610-6807
 
