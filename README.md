@@ -4,15 +4,15 @@ I'm a software engineer with a proven ability to collaboratively contribute to c
 Based in Chicago, I graduated from The School of the Art Institute of Chicago in 2019 with a BFA in studio, and completed General Assembly's Software Engineering Immersive spring of 2020.
 <br>
 
-#### Check out my portfolio <a href="www.isasofiamartinez.com">here</a>!
+#### 🧺 Check out my portfolio <a href="www.isasofiamartinez.com">here</a>!
 
-#### View my resume: <a href="https://docs.google.com/document/d/1PWfhTnieTOW9Tx5XA-yXqoYJgQXtAUvHKK-En3IdP7I/edit?usp=sharing">Isa's Resume</a>
+#### 📄 View my resume: <a href="https://docs.google.com/document/d/1PWfhTnieTOW9Tx5XA-yXqoYJgQXtAUvHKK-En3IdP7I/edit?usp=sharing">Isa's Resume</a>
 
-#### Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
+#### 📎 Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
 
-#### Reach me via email: <a href="mailto:isasofma@gmail.com">isasofma@gmail.com</a>
+#### 🦋 Reach me via email: <a href="mailto:isasofma@gmail.com">isasofma@gmail.com</a>
 
-#### Give me a call: (626) 610-6807
+#### 📟 Give me a call: (626) 610-6807
 
 ![Isa's github stats](https://github-readme-stats.vercel.app/api?username=isama22&show_icons=true&theme=light)
 
