@@ -5,6 +5,12 @@ Based in Chicago, I graduated from The School of the Art Institute of Chicago in
 <br>
 #### Check out my portfolio <a href="www.isasofiamartinez.com">here</a>!
 <br>
+#### View my resume: <a href="https://docs.google.com/document/d/1PWfhTnieTOW9Tx5XA-yXqoYJgQXtAUvHKK-En3IdP7I/edit?usp=sharing">Isa's Resume</a>
+<br>
+#### Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
+<br>
+#### Reach me via email: <a href="mailto:isasofma@gmail.com">isasofma@gmail.com</a>
+<br>
 ![Isa's github stats](https://github-readme-stats.vercel.app/api?username=isama22&show_icons=true&theme=light)
 <br>
 <br>
