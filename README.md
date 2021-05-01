@@ -3,6 +3,7 @@ I'm a software engineer with a proven ability to collaboratively contribute to c
 
 Based in Chicago, I graduated from The School of the Art Institute of Chicago in 2019 with a BFA in studio, and completed General Assembly's Software Engineering Immersive spring of 2020.
 <br>
+#### Check out my portfolio <a href="www.isasofiamartinez.com">here</a>!
 <br>
 ![Isa's github stats](https://github-readme-stats.vercel.app/api?username=isama22&show_icons=true&theme=light)
 <br>
