@@ -6,7 +6,7 @@ Based in Chicago, I graduated from The School of the Art Institute of Chicago in
 
 #### 🧺 Check out my portfolio <a href="https://www.isasofiamartinez.com/">here</a>!
 
-#### 📄 View my resume: <a href="https://docs.google.com/document/d/1PWfhTnieTOW9Tx5XA-yXqoYJgQXtAUvHKK-En3IdP7I/edit?usp=sharing">Isa's Resume</a>
+#### 📄 View my resume: <a href="https://docs.google.com/document/d/1q4jYfynUwiK7HCCC7eFhrSbU2SEFtOcHqlJ2sO3vDgE">Isa's Resume</a>
 
 #### 📎 Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
 
