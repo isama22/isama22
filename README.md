@@ -15,5 +15,4 @@ Based in Chicago, I graduated from The School of the Art Institute of Chicago in
 #### 📟 Give me a call: (626) 610-6807
 
 ![Isa's github stats](https://github-readme-stats.vercel.app/api?username=isama22&show_icons=true&theme=light)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isama22&layout=compact)](https://github.com/isama22/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isama22&layout=compact)
