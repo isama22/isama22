@@ -8,7 +8,5 @@
 
 #### 🦋 Reach me via email: <a href="mailto:isasofma@gmail.com">isasofma@gmail.com</a>
 
-#### 📟 Give me a call: (626) 610-6807
-
 ![Isa's github stats](https://github-readme-stats.vercel.app/api?username=isama22&show_icons=true&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isama22&layout=compact)
