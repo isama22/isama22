@@ -1,8 +1,8 @@
 ### 🐞 Hello! 
 
-#### 🧺 Check out my portfolio <a href="https://www.isasofiamartinez.com/">here</a>!
+#### 🧺 Check out my portfolio <a href="https://www.isasofiamartinez.com">here</a>!
 
-#### 📄 View my resume: <a href="https://docs.google.com/document/d/1ViQlEvSbceDBBaJG7kVaTnbg4P-6GqM5HA8FZDwGT0g/edit?usp=sharing">Isa's Resume</a>
+#### 📄 View my resume: <a href="https://docs.google.com/document/d/1a2FQ4kdWOxkoTPwX2E0IA8OUBVTJE8cAkCKqyvG_rEM">Isa's Resume</a>
 
 #### 📎 Chat with me here: <a href="https://www.linkedin.com/in/isa-sofia-martinez/">LinkedIn</a>
 
